@@ -5,7 +5,7 @@ version      = "1.0.0"
 authors      = ["Wire Swiss GmbH <support@wire.com>"]
 description  = "Axolotl protocol implementation"
 homepage     = "https://github.com/wireapp/proteus"
-repository   = "git@github.com:wireapp/proteus.git"
+repository   = "git@github.com:sd166/proteus.git"
 license      = "GPL-3.0"
 
 [dependencies]
